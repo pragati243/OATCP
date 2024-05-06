@@ -1,0 +1,10 @@
+Word: banish, Mapped Word: b
+Word: feature, Mapped Word: f
+Word: program, Mapped Word: r
+Word: world, Mapped Word: w
+Word: civilian, Mapped Word: c
+Word: damn, Mapped Word: d
+Word: mature, Mapped Word: m
+Word: hover, Mapped Word: h
+Word: appearance, Mapped Word: a
+Word: practice, Mapped Word: p

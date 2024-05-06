@@ -1,0 +1,12 @@
+Word: agency, Mapped Word: y
+Word: paper, Mapped Word: p
+Word: channel, Mapped Word: h
+Word: national, Mapped Word: n
+Word: reform, Mapped Word: e
+Word: goat, Mapped Word: g
+Word: reduce, Mapped Word: r
+Word: cart, Mapped Word: a
+Word: collect, Mapped Word: c
+Word: cope, Mapped Word: o
+Word: terminal, Mapped Word: t
+Word: marathon, Mapped Word: m
